@@ -8,6 +8,4 @@ echo "<br>";
 echo "Git is very useful";
 echo "<br>";
 echo "Git controls version.";
-echo "<br>";
-echo "Git controls version."
 ?>
