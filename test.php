@@ -10,4 +10,8 @@ echo "<br>";
 echo "Git controls version.";
 echo "<br>";
 echo "I've learnt Git and going to apply to my project.";
+echo "<br>";
+echo "When starting out with a new repository, you only need to do it
+once; either locally, then push to GitHub, or by cloning an
+existing repository."
 ?>
