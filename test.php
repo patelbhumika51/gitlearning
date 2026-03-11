@@ -10,4 +10,7 @@ echo "<br>";
 echo "Git controls version.";
 echo "<br>";
 echo "I've learnt Git and going to apply to my project.";
+echo "<br>";
+echo "Sometimes it may be a good idea to exclude files from being
+tracked with Git.";
 ?>
